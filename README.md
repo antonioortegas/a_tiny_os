@@ -2,6 +2,7 @@
 
 Tiny Operating System from scratch
 (yes, it only prints a message and hangs, not even bothering to clear the BIOS text, but it's a start!)
+![proof :)](A_Tiny_OS.png)
 
 ## Useful Links Used
 
